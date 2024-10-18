@@ -51,7 +51,7 @@ router.get('/', async (req, res) => {
                 } = s;
                 if (connection == "open") {
                 await delay(5000);
-                let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
+                let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`); 
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: "" + b64data });
@@ -61,15 +61,16 @@ router.get('/', async (req, res) => {
 ┃NEXUS MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🩷
+|NOTE:DONT SHARE WITH ANYONE🎉
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creators =NEXUS TEAM 
+❶ || CreatorS = NEXUS TEAM
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VarItlZ8fewz4nyakm1u
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *NEXUS-MD*'
+©*NEXUS DEVS TEAM*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
- 
+
 
         await delay(100);
         await Pair_Code_By_Maher_Zubair.ws.close();
