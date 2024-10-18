@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VarItlZ8fewz4nyakm1u
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-© *NEXUS-MD*
+© *NEXUS-MD*'
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
