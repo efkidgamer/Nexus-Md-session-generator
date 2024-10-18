@@ -60,14 +60,14 @@ router.get('/', async (req, res) => {
 ┏━━━━━━━━━━━━━━
 ┃NEXUS MD SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED ✅🩷
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ NEXUS TEAM ⚡𖥘
+❶ || Creators =NEXUS TEAM 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/ 
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VarItlZ8fewz4nyakm1u
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©NEXUS-MD*`
+© *NEXUS-MD*
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
